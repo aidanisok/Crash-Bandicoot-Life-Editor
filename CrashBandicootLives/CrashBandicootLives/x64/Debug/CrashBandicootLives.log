@@ -1,0 +1,3 @@
+﻿  CrashBandicootLives.cpp
+c:\users\aidan\source\repos\crashbandicootlives\crashbandicootlives\crashbandicootlives.cpp(14): warning C4101: 'lwError': unreferenced local variable
+  CrashBandicootLives.vcxproj -> C:\Users\aidan\source\repos\CrashBandicootLives\x64\Debug\CrashBandicootLives.exe

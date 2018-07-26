@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CrashBandicootLives", "CrashBandicootLives\CrashBandicootLives.vcxproj", "{B70AD874-2473-4515-AF12-7CC923B2CE5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B70AD874-2473-4515-AF12-7CC923B2CE5A}.Debug|x64.ActiveCfg = Debug|x64
+		{B70AD874-2473-4515-AF12-7CC923B2CE5A}.Debug|x64.Build.0 = Debug|x64
+		{B70AD874-2473-4515-AF12-7CC923B2CE5A}.Debug|x86.ActiveCfg = Debug|x64
+		{B70AD874-2473-4515-AF12-7CC923B2CE5A}.Debug|x86.Build.0 = Debug|x64
+		{B70AD874-2473-4515-AF12-7CC923B2CE5A}.Release|x64.ActiveCfg = Release|x64
+		{B70AD874-2473-4515-AF12-7CC923B2CE5A}.Release|x64.Build.0 = Release|x64
+		{B70AD874-2473-4515-AF12-7CC923B2CE5A}.Release|x86.ActiveCfg = Release|Win32
+		{B70AD874-2473-4515-AF12-7CC923B2CE5A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37627ADB-CAFB-4ACB-A720-96CC252FF2D5}
+	EndGlobalSection
+EndGlobal
