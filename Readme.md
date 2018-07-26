@@ -1,3 +1,4 @@
+Simple Life Editor 
 
 Launch the Crash Bandicoot N.Sane Trilogy and pick one of the 3 games.
 
